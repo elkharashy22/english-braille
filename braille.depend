@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540252083 source:e:\new folder (2)\course\lang\braille\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
